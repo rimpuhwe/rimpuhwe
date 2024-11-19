@@ -1,4 +1,4 @@
-# raissa
+# rimpuhwe
 <h1 align="center">Hi 😊, I'm Raissa Micheline IMPUHWE MANZI</h1>
 <h3 align="center">Passionate Full-stack Developer Building Solutions with Creativity and Code</h3>
 
