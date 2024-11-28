@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Software development**
 
-- 💬 About ME **I'm an enthusiastic software developer with a passion for crafting effective, user-friendly solutions through clean and scalable code. With a focus on both front-end and back-end technologies, I love turning ideas into fully functional applications that solve real-world problems. Currently deepening my expertise in HTML, CSS, JavaScript, and other tools, I’m always exploring new challenges to expand my skills. Driven by creativity and precision, I strive to build impactful software that enhances user experiences and makes technology accessible to everyone.**
+- 💬 I'm an enthusiastic software developer passionate about crafting effective, user-friendly solutions through clean and scalable code. Focusing on front-end and back-end technologies, I love turning ideas into fully functional applications that solve real-world problems. Currently deepening my expertise in HTML, CSS, JavaScript, and other tools, I’m always exploring new challenges to expand my skills. Driven by creativity and precision, I strive to build impactful software that enhances user experiences and makes technology accessible to everyone.**
 
 - 📫 How to reach me **rimpuhwemanzi@gmail.com**
 
