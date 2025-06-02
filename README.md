@@ -17,7 +17,7 @@
 <a href="https://twitter.com/manziraissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manziraissa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/raissa-micheline-impuhwe-manzi-bb98982b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raissa-micheline-impuhwe-manzi-bb98982b8" height="30" width="40" /></a>
 <a href="https://fb.com/raissa_michelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raissa_michelle" height="30" width="40" /></a>
-<a href="[https://instagram.com/raissa_michelle](https://www.instagram.com/raissa_michou/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raissa_michelle" height="30" width="40" /></a>
+<a href="https://instagram.com/raissa_michou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raissa_michelle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
